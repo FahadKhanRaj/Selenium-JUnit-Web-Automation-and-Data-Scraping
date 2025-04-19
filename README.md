@@ -47,14 +47,6 @@
 
 
 
-
-## 🎟 Technical Stack
-| Component       | Technologies Used |
-|----------------|-------------------|
-| **Core**       | Java, Selenium, JUnit |
-| **Patterns**   | POM (Page Object Model) where applicable |
-| **Data Handling** | File I/O, HashSet for unique entries |
-
 ---
 
 ## 🎟 Key Features
