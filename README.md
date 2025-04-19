@@ -39,7 +39,7 @@
 ##   ▶️ Video: https://drive.google.com/file/d/1vyOh7yFB18lrA1PBFvKLpYQcp5eziykq/view?usp=sharing
 
 
-4. **DSE Bangladesh Market Data Scraper**  
+3. **DSE Bangladesh Market Data Scraper**  
    `Stock Exchange table extraction to structured file`  
    🎟 ![Screenshot_3](https://github.com/user-attachments/assets/52be4987-4b8e-4cee-ba77-51c7de1db57c)
 ##   ▶️ Video: https://drive.google.com/file/d/1jsx2-VJMQ10e2sDWv6ysjHRYDcn5Gugq/view?usp=sharing
